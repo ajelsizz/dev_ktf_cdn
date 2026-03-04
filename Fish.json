@@ -1,0 +1,7 @@
+[
+  { "Name": "Willy",  "SpriteID": "fish_1", "BaseCost": 100, "SpokeWeight": 4 },
+  { "Name": "Pam",    "SpriteID": "fish_2", "BaseCost": 150, "SpokeWeight": 4 },
+  { "Name": "Shane",  "SpriteID": "fish_3", "BaseCost": 200, "SpokeWeight": 3 },
+  { "Name": "Krobus", "SpriteID": "fish_4", "BaseCost": 300, "SpokeWeight": 2 },
+  { "Name": "Linus",  "SpriteID": "fish_5", "BaseCost": 500, "SpokeWeight": 1 }
+]
